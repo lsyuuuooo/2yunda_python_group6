@@ -18,4 +18,10 @@ DEFAULT_REGISTRATIONS = [
         "activity": "运动与健康",
         "reason": "坚持锻炼，希望带动更多同学参与健康活动。",
     },
+    {
+        "name":"刘嵩榆",
+        "group":"第六组",
+        "activity":"用python开发网页",
+        "reason":"想学习如何用python开发网页。"，
+    }
 ]
